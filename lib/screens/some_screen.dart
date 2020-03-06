@@ -15,7 +15,7 @@ class _SomeScreen extends State<SomeScreen> {
         title: Text("Some screen"),
       ),
       body: Center(
-        child: Text("Some text"),
+        child: Text("https://habr.com/ru/post/432420/"),
         ),
       );
   }
